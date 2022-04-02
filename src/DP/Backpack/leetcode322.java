@@ -1,4 +1,4 @@
-package DP;
+package DP.Backpack;
 
 public class leetcode322 {
     public int coinChange(int[] coins, int amount) {

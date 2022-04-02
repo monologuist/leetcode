@@ -1,4 +1,4 @@
-package DP;
+package DP.MatrixDP;
 
 import java.util.Arrays;
 
